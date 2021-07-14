@@ -1,0 +1,59 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>imagen de tiendad/01 tiendad.jpg</file>
+        <file>imagen de tiendad/abrir-correo.png</file>
+        <file>imagen de tiendad/agregar-archivo.png</file>
+        <file>imagen de tiendad/b.jpeg</file>
+        <file>imagen de tiendad/bv.jpeg</file>
+        <file>imagen de tiendad/calculadora.png</file>
+        <file>imagen de tiendad/cerrar-sesion.png</file>
+        <file>imagen de tiendad/d.jpeg</file>
+        <file>imagen de tiendad/e365c820ca6c7feb70b6b475a76be3e3.jpg</file>
+        <file>imagen de tiendad/escoba.png</file>
+        <file>imagen de tiendad/factura.png</file>
+        <file>imagen de tiendad/fe.jpeg</file>
+        <file>imagen de tiendad/gf.jpeg</file>
+        <file>imagen de tiendad/gr.jpeg</file>
+        <file>imagen de tiendad/h.jpeg</file>
+        <file>imagen de tiendad/hf.jpeg</file>
+        <file>imagen de tiendad/hh.jpeg</file>
+        <file>imagen de tiendad/j.jpeg</file>
+        <file>imagen de tiendad/k.jpeg</file>
+        <file>imagen de tiendad/kj.jpeg</file>
+        <file>imagen de tiendad/l.jpeg</file>
+        <file>imagen de tiendad/light-blue-cool-vector-low-poly-crystal-background-png_66033.jpg</file>
+        <file>imagen de tiendad/ll.jpeg</file>
+        <file>imagen de tiendad/n.jpeg</file>
+        <file>imagen de tiendad/ñ.jpeg</file>
+        <file>imagen de tiendad/o.jpeg</file>
+        <file>imagen de tiendad/p.jpeg</file>
+        <file>imagen de tiendad/q.jpeg</file>
+        <file>imagen de tiendad/r.jpeg</file>
+        <file>imagen de tiendad/s.jpeg</file>
+        <file>imagen de tiendad/sa.jpeg</file>
+        <file>imagen de tiendad/salvar.png</file>
+        <file>imagen de tiendad/t.jpeg</file>
+        <file>imagen de tiendad/tienda.png</file>
+        <file>imagen de tiendad/ty.jpeg</file>
+        <file>imagen de tiendad/u.jpeg</file>
+        <file>imagen de tiendad/uy.jpeg</file>
+        <file>imagen de tiendad/venta.png</file>
+        <file>imagen de tiendad/wq.jpeg</file>
+        <file>imagen de tiendad/x.jpeg</file>
+        <file>imagen de tiendad/y.jpeg</file>
+        <file>imagen de tiendad/z.jpeg</file>
+        <file>imagen de tiendad/105afda588d9fad6fcceaef564f5eef7.gif</file>
+        <file>imagen de tiendad/ancho-del-texto.png</file>
+        <file>imagen de tiendad/descargar.gif</file>
+        <file>imagen de tiendad/seleccion-de-color.png</file>
+        <file>imagen de tiendad/tenor.gif</file>
+        <file>imagen de tiendad/educacion.png</file>
+        <file>imagen de tiendad/estilo-de-vida-saludable.png</file>
+        <file>imagen de tiendad/piscis.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>imagen de tiendad/educacion.png</file>
+        <file>imagen de tiendad/estilo-de-vida-saludable.png</file>
+        <file>imagen de tiendad/piscis.png</file>
+    </qresource>
+</RCC>
