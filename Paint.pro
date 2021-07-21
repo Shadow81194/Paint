@@ -32,3 +32,6 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 
 RESOURCES += \
     imagenP.qrc
+
+DISTFILES += \
+    imagen de tiendad/abrir-correo.png

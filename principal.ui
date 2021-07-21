@@ -10,15 +10,24 @@
     <height>394</height>
    </rect>
   </property>
+  <property name="font">
+   <font>
+    <family>Cooper Std Black</family>
+    <pointsize>10</pointsize>
+    <weight>75</weight>
+    <italic>true</italic>
+    <bold>true</bold>
+   </font>
+  </property>
   <property name="windowTitle">
-   <string>Principal</string>
+   <string>Paint</string>
   </property>
   <property name="windowIcon">
    <iconset resource="imagenP.qrc">
     <normaloff>:/new/prefix1/imagen de tiendad/venta.png</normaloff>:/new/prefix1/imagen de tiendad/venta.png</iconset>
   </property>
   <property name="styleSheet">
-   <string notr="true">background-color: qlineargradient(spread:reflect, x1:1, y1:0.943, x2:1, y2:0.0683636, stop:0.393258 rgba(82, 52, 145, 153), stop:0.606742 rgba(45, 121, 88, 148));</string>
+   <string notr="true">background-color: qlineargradient(spread:reflect, x1:1, y1:0.943, x2:0.051, y2:0.0797272, stop:0.393258 rgba(62, 176, 179, 87), stop:0.606742 rgba(81, 114, 187, 127));</string>
   </property>
   <widget class="QWidget" name="centralwidget"/>
   <widget class="QMenuBar" name="menubar">
@@ -54,6 +63,7 @@
     <addaction name="actionLibre"/>
     <addaction name="actionLinias"/>
     <addaction name="actionRectangulos"/>
+    <addaction name="actionCircular"/>
    </widget>
    <addaction name="menuNuevo"/>
    <addaction name="menuEstilo"/>
@@ -154,6 +164,18 @@
    </property>
    <property name="shortcut">
     <string>Ctrl+R</string>
+   </property>
+  </action>
+  <action name="actionCircular">
+   <property name="icon">
+    <iconset resource="imagenP.qrc">
+     <normaloff>:/new/prefix1/imagen de tiendad/r.jpeg</normaloff>:/new/prefix1/imagen de tiendad/r.jpeg</iconset>
+   </property>
+   <property name="text">
+    <string>C&amp;ircular</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+O</string>
    </property>
   </action>
  </widget>
